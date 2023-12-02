@@ -9,8 +9,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
-login = 'ADL-56976'
-password = '501A3559'
+login = ''
+password = ''
 
 
 def parser() -> None:
